@@ -1,7 +1,8 @@
 # 🀄 Taiwan 16-Card Mahjong Engine & Pygame GUI (台灣 16 張麻將遊戲與自動化對戰系統)
 
 本專案是一套基於 **Python (OOP)** 與 **Pygame** 開發的正統台灣 16 張麻將遊戲與自動化對戰系統。採用經典的 **MVC (Model-View-Controller)** 架構設計，完整實作了麻將的底層規則、複雜狀態機（State Machine）、智慧型防禦 AI 決策，以及嚴謹的台數與籌碼結算系統。
-![Uploading download.gif…]()
+<img width="1152" height="648" alt="download" src="https://github.com/user-attachments/assets/79949bf3-7469-4061-ba82-2786d2323cbe" />
+
 
 
 ---
